@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="calc_bg">#12131A</color>
+    <color name="display_bg">#1A1C26</color>
+    <color name="text_expression">#E1E4ED</color>
+    <color name="text_result">#8A91A8</color>
+    <color name="text_result_final">#4F80FF</color>
+
+    <color name="btn_num_bg">#252836</color>
+    <color name="btn_num_text">#FFFFFF</color>
+
+    <color name="btn_sci_bg">#1D202D</color>
+    <color name="btn_sci_text">#64B5F6</color>
+    <color name="btn_sci_active">#1976D2</color>
+
+    <color name="btn_action_bg">#36222B</color>
+    <color name="btn_action_text">#FF5252</color>
+
+    <color name="btn_op_bg">#272B3F</color>
+    <color name="btn_op_text">#FFB74D</color>
+
+    <color name="btn_equals_bg">#4F6BFF</color>
+    <color name="btn_equals_text">#FFFFFF</color>
+
+    <color name="pill_bg">#252836</color>
+    <color name="pill_active_bg">#4F6BFF</color>
+    <color name="pill_text">#8A91A8</color>
+    <color name="pill_active_text">#FFFFFF</color>
+</resources>

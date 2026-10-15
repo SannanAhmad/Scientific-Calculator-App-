@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="mode_deg">DEG</string>
+    <string name="mode_rad">RAD</string>
+    <string name="mode_inv">INV</string>
+</resources>
