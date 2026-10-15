@@ -3,4 +3,5 @@
     <string name="mode_deg">DEG</string>
     <string name="mode_rad">RAD</string>
     <string name="mode_inv">INV</string>
+    <string name="btn_clear">CLEAR</string>
 </resources>
